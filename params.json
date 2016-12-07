@@ -1,0 +1,6 @@
+{
+  "name": "Shopping Preferences",
+  "tagline": "Set and share your preferences to allow online retailers to personalize your shopping experience.",
+  "body": "### A more personalized shopping experience\r\nWhen you use the Shopping Preferences Chrome extension, it shares your shopping preferences with online retailers, who can use that information to personalize your experience.\r\n\r\n### It's all under your control\r\nYou get to choose what gets shared with online retailers.  Don't feel comfortable revealing demographic information?  That's OK.  You can reveal as much or as little about yourself as you want.\r\n\r\n### Not stored in the cloud\r\nConcerned about privacy?  The shopping preferences you provide are stored locally in your web browser, not off in the cloud.  (Note that Chrome does offer users the ability to sync this data across devices.)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
