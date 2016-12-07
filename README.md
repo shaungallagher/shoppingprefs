@@ -4,7 +4,7 @@ Using the Shopping Preferences Chrome extension, users can set and share their s
 
 ## User guide
 
-After installing the Chrome extension, a button will be added to your browser's toolbar.  Clicking the button will open a control panel, where you can set your shopping preferences and some general demographic information.  (Fill in as many or as few of the fields as you wish.  It's all under your control!)
+After installing the Chrome extension, a ![Image of Shopping Preferences button](https://github.com/shaungallagher/shoppingprefs/raw/master/shoppingPrefs-24.png) button will be added to your browser's toolbar.  Clicking the button will open a control panel, where you can set your shopping preferences and some general demographic information.  (Fill in as many or as few of the fields as you wish.  It's all under your control!)
 
 The extension will provide your shopping preferences to online retailers by setting cookies on their site, which expire at the end of your shopping session.
 
